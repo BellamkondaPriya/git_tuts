@@ -1,0 +1,4 @@
+num =10
+num2 =30
+sum = num+num2
+print(sum)
