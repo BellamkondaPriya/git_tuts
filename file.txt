@@ -1,0 +1,3 @@
+X = "This is a sample string"
+count1 = len(x)
+print("The number of letters are : " , count1)
